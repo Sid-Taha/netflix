@@ -112,7 +112,7 @@ export default function NetflixLoginIn() {
 
             <div className="mt-4 text-[13px] text-white/50 ">
               <p>
-                This page is protected by Google reCAPTCHA to ensure you're not
+                This page is protected by Google reCAPTCHA to ensure you re not
                 a bot.{" "}
               </p>
                 <Link
